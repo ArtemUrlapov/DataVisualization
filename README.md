@@ -1,6 +1,6 @@
 # Data Visualization Project (Master Degree in Computational Social Science)
 
-## Autor: Artem Urlapov
+## Author: Artem Urlapov
 
 ## Supervisor: Iñaki Úcar Marques
 
